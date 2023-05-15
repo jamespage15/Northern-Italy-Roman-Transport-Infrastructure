@@ -1,8 +1,8 @@
-# Po-Roman-Transport
+# Norther-Italy-Roman-Transport-Infrastructure
+
+This repository contains the vector shapefiles and steps used in creating a route network model of Roman transport infrastructure in Northern Italy during the Imperial period. In each folder of the repository, the vector shapefiles for the different layers of the network model can be found. 
 
 The network model was created using the ArcGIS Network Analyst Suite, Version 10.8.1. 
-
-In each folder, the vector shapefiles for each layer of the network model can be found. 
 
 # Building the Network Dataset
 The steps here outline the process to join the separate vector shapefiles representing the rivers, roads, canals, and sealanes of Northern Italy into a single network
